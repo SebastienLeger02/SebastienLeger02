@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/ckcSWMP/S-bastien-leger.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/ckcSWMP/S-bastien-leger.png" align="center" style="width: 85%" />
 </div>  
   
 
