@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -40,7 +40,7 @@
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,9 +54,6 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" alt="MySQL" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="Spring" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
