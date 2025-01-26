@@ -4,7 +4,7 @@
   
 
 ## <div align="center">My name is Sébastien, a full-time full-stack Web2 developer 👨‍💻 </div>  
-## <div align="center">For over a year, I have been studying BlockChain, Solidity Developer and Front-End Developer 🚀⛓️</div>  
+ <div align="center">For over a year, I have been studying BlockChain, Solidity Developer and Front-End Developer 🚀⛓️</div>  
   
 
 - 🔭 I am currently looking for a job [LinkedIn](https://www.linkedin.com/in/sebastien-dev/)  
