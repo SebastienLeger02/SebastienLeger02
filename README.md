@@ -3,8 +3,9 @@
 </div>  
   
 
-## <div align="center">My name is Sébastien, a full-stack Web2 y Web3 developer 👨‍💻 </div>  
- <div align="center">For over a year, I have been studying BlockChain, Solidity Developer and Front-End Developer 🚀⛓️</div>  
+## <div align="center">
+  <p>I'm full-stack Web2 y Web3 developer 👨‍💻</p>   
+ <p>For over a year, I have been studying BlockChain, Solidity Developer and Front-End Developer 🚀⛓️</p>  </div>
   
 
 - 🔭 I am currently looking for a job [LinkedIn](https://www.linkedin.com/in/sebastien-dev/)  
